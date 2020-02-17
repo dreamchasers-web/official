@@ -18,6 +18,15 @@
 #slider-j P {
   font-size: 24px;
 }
+#msg-box4-s .mbr-header__text {
+  color: #3c3c3c;
+}
+#msg-box4-s .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-s .mbr-article {
+  color: #3c3c3c;
+}
 #msg-box5-6 .mbr-header__text {
   color: #3c3c3c;
   font-family: 'Roboto', sans-serif;
@@ -26,6 +35,24 @@
   color: #ffffff;
 }
 #msg-box5-6 .mbr-article {
+  color: #3c3c3c;
+}
+#msg-box4-r .mbr-header__text {
+  color: #3c3c3c;
+}
+#msg-box4-r .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-r .mbr-article {
+  color: #3c3c3c;
+}
+#msg-box4-q .mbr-header__text {
+  color: #3c3c3c;
+}
+#msg-box4-q .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-q .mbr-article {
   color: #3c3c3c;
 }
 #msg-box4-n .mbr-header__text {
